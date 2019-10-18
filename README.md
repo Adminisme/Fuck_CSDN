@@ -25,8 +25,8 @@
 
 
 使用插件前 :乌78糟图：
-![image](img/2.png)
+![image](2.png)
 
 
 使用插件后 :神清气爽图：
-![image](img/1.png)
+![image](1.png)
